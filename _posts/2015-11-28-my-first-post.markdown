@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My First Post!"
+title:  "My First Blog!"
 date:   2015-11-28 20:18:09 +0800
-categories: jekyll update
+category: IT
 ---
 
 #My First Blog on Github Pages
