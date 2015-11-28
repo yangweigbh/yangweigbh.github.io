@@ -5,7 +5,7 @@ date:   2015-11-28 20:18:09 +0800
 category: IT
 ---
 
-#My First Blog on Github Pages
+#How to build blog using jekyll and GithubPages
 
 This is my first blog built upon jekyll and host on github pages, and i want to share how to create personal blog using jekyll and Github Pages
 
