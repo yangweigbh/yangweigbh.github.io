@@ -15,5 +15,8 @@ twitter_username: yangweigbh
 github_username:  yangweigbh
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 input: GFM
+markdown: redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
