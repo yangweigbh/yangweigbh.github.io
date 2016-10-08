@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "2016 dagger 2 学习笔记"
+categories: IT
+---
+
+# 2016 dagger 2 学习笔记
+
+## setup
+
+```java
+ dependencies {
+     // other classpath definitions here
+     classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+ }
+ ```
+ 
+Then make sure to apply the plugin in your app/build.gradle:
+
+```java
+
+// add after applying plugin: 'com.android.application'  
+apply plugin: 'com.neenbedankt.android-apt'
+```
+
+Add these three lines to your app/build.gradle file after this apply statement:
+
+```java
+dependencies {
+    // apt command comes from the android-apt plugin
+    apt 'com.google.dagger:dagger-compiler:2.7'
+    compile 'com.google.dagger:dagger:2.7'
+    provided 'javax.annotation:jsr250-api:1.0'
+}
+```
