@@ -21,4 +21,4 @@ markdown: redcarpet
 redcarpet:
     extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
