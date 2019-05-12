@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "2016 dagger 2 学习笔记"
 categories: IT
 ---
