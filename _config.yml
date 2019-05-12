@@ -21,3 +21,5 @@ markdown: kramdown
 header_type: drawer  # values [ drawer, default ]
 post_type: highlight    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
+
+remote_theme: gdgmanagua/jekyll-mdl
