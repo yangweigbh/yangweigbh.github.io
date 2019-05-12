@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "2015 有道云校招笔试试题(算法)"
 categories: IT
 ---
