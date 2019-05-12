@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "How to build blog using jekyll and GithubPages"
-date:   2015-11-28 20:18:09 +0800
 categories: IT
 ---
 

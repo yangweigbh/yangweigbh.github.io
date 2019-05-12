@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "What's new in Google Play Console in Google I/O 19"
-date:   2019-05-11 23:18:09 +0800
 categories: IT
 ---
 
