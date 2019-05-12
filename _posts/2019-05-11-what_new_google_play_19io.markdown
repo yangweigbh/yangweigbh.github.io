@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "What's new in Google Play Console in Google I/O 19"
 categories: IT
 ---
