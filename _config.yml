@@ -15,10 +15,9 @@ twitter_username: yangweigbh
 github_username:  yangweigbh
 
 # Build settings
-#markdown: kramdown
-input: GFM
-markdown: redcarpet
-redcarpet:
-    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
+markdown: kramdown
 
-theme: jekyll-theme-slate
+# Layout settings
+header_type: drawer  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
